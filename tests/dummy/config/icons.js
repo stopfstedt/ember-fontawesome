@@ -1,6 +1,7 @@
 module.exports = function () {
   return {
     'free-solid-svg-icons': [
+      'stopwatch-20',
       'coffee',
       'magic',
       'circle',
